@@ -1,0 +1,18 @@
+Bug Report
+
+Description: The "See All Bots" button does not allow the playerto see all of the bots. It does nothing at all.
+
+Steps to Reproduce: Open the site and click the see all bots button.
+
+Expected Result: All bots should become visable to the player inorder to pick bots based on the bots that they may face in the duel.
+
+Actual Result: No bots become visable when the button is clicked. The player must make their choice of bots with no indication as to whether the bots they may face could have similar statistics or not.
+
+Environment: Edition	Windows 10 Home
+Version	22H2
+Installed on	‎5/‎18/‎2021
+OS build	19045.2728
+Experience	Windows Feature Experience Pack 120.2212.4190.0
+
+
+Chrome Version 111.0.5563.111 (Official Build) (64-bit)

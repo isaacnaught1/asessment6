@@ -1,0 +1,18 @@
+Bug Report
+
+Description: The Win - Loss counter to keep track of how many times a player has won or lost a match counts all results no matter the outcome of the match.
+
+Steps to Reproduce: Select 2 bots with high level attacks in order to increase odds of victory and click the duel button. A message will appear saying whether the player has won or lost.
+
+Expected Result: If the player loses the number of losses should increase by one. If the player wins the number of wins should increase by one.
+
+Actual Result: The number of losses increses by one regardless of the outcome of the duel while the number of wins remains at 0.
+
+Environment: Edition	Windows 10 Home
+Version	22H2
+Installed on	‎5/‎18/‎2021
+OS build	19045.2728
+Experience	Windows Feature Experience Pack 120.2212.4190.0
+
+
+Chrome Version 111.0.5563.111 (Official Build) (64-bit)

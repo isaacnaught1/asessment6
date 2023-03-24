@@ -1,0 +1,13 @@
+Test Case
+
+Test Description: A player will open the cite and proceed to select 2 bots based on a health and attack power level. One the bots have been selected the player will proceed to battle two randomly selected bots in a simulated duel. Afterwhich a message will let the player know if they have won or lost while a counter will keep track of their record.
+
+Test Steps:
+1. A player will navigate to the website
+2. The player will read the instructions listed on the page and will see two buttons. 
+3. The player will click the see all bots button followed by the draw button in order to select their bots for the duel.
+4. Player will select two bots to duel against two randomly computer selected opponents.
+5. The duel will be simulated. 
+
+Test Postconditions:
+A victor will be named and the result of the duel will be recorded by a counter so the player can see their record.
